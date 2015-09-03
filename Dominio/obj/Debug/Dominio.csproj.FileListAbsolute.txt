@@ -1,0 +1,4 @@
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Dominio\bin\Debug\Dominio.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Dominio\bin\Debug\Dominio.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Dominio\obj\Debug\Dominio.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Dominio\obj\Debug\Dominio.pdb

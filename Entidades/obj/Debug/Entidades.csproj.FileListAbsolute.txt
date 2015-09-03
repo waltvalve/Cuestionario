@@ -1,0 +1,5 @@
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Entidades\bin\Debug\Entidades.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Entidades\bin\Debug\Entidades.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Entidades\obj\Debug\Entidades.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Entidades\obj\Debug\Entidades.pdb

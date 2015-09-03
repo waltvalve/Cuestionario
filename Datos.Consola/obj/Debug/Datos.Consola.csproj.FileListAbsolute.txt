@@ -1,0 +1,10 @@
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\Datos.Consola.dll.config
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\Datos.Consola.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\Datos.Consola.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\EntityFramework.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\EntityFramework.xml
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\obj\Debug\Datos.Consola.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\obj\Debug\Datos.Consola.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.Consola\obj\Debug\Datos.Consola.pdb

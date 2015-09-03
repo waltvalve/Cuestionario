@@ -1,0 +1,14 @@
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Datos.EF.dll.config
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Datos.EF.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Datos.EF.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Dominio.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Entidades.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\EntityFramework.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Dominio.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\Entidades.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\EntityFramework.xml
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\obj\Debug\Datos.EF.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\obj\Debug\Datos.EF.dll
+c:\users\willi\documents\visual studio 2015\Projects\Cuestionarios\Datos.EF\obj\Debug\Datos.EF.pdb
